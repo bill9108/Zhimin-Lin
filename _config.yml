@@ -1,9 +1,9 @@
 ---
 title: Zhimin Lin
 baseurl: "/Zhimin-Lin"
-desc: Personal Page of Zhimin Lin
-about: Master of ECE, Machine Learning & Data Science, University of California, San Diego
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+desc: Master of Sience in Machine Learning & Data Science, Electrical and Computer Engineering Department, University of California, San Diego
+about: 
+image: 
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
